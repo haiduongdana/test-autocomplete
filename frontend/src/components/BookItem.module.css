@@ -1,0 +1,17 @@
+.item_wrapper{
+    width: 33%;
+}
+
+.item{
+    margin: 10px ;
+    border: 1px solid #808080;
+    border-radius: 16px;
+    padding: 10px;
+}
+
+.name{
+    width: 100%;
+    white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
