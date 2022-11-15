@@ -2,8 +2,11 @@
 
 In sever directory can run the following command to install all dependencies :
 ### npm install
-Then run the following command to launch the json server :
 
+Install global json-server command
+### npm install -g json-server
+
+Then run the following command to launch the json server :
 ### json-server Booklist.json
 
 The json server will run on the default port of 3000
